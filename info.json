@@ -1,6 +1,7 @@
 {
     "available_space": true,
-    "files": [
+    "total_size": 649.9509999999997,
+    "videos": [
         "Bain-qGwcLj9OOKE.mp4",
         "Emperor - Thus Spake the Nightspirit-EklLgmAYFBg.mp4",
         "Creedence Clearwater Revival - Long As I Can See The Light (Lyric Video)-BDfGblfOsZ4.mp4",
@@ -54,7 +55,5 @@
         "L'Impératrice — Anomalie bleue-kGxOaDdg2kI.mp4",
         "HUIZAR - el emisario (sencillo 1987)-nmp1Ff7MAHE.mp4",
         "Why Must The Show Go On (2003 Digital Remaster)-5Ejzjs6PmhU.mp4"
-    ],
-    "id": "g2",
-    "total_size": 619.8413769531251
+    ]
 }
