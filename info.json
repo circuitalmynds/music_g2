@@ -2,6 +2,11 @@
     "available_space": true,
     "files": [
         {
+            "name": "The Silvertones - Cool Down-6JH9m04bwAs.mp4",
+            "path": "music_g2/videos/The Silvertones - Cool Down-6JH9m04bwAs.mp4",
+            "size": 3.8071664640000002
+        },
+        {
             "name": "Bain-qGwcLj9OOKE.mp4",
             "path": "music_g2/videos/Bain-qGwcLj9OOKE.mp4",
             "size": 8.114704384000001
@@ -272,5 +277,5 @@
             "size": 6.732265472000001
         }
     ],
-    "total_size": 652.8820336640002
+    "total_size": 656.6892001280002
 }
