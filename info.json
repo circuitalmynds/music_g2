@@ -17,6 +17,11 @@
             "size": 17.0075648
         },
         {
+            "name": "A-Tisket, A-Tasket-gg12E1aac8s.mp4",
+            "path": "music_g2/videos/A-Tisket, A-Tasket-gg12E1aac8s.mp4",
+            "size": 2.931241984
+        },
+        {
             "name": "Camilo Sesto - ¿Quieres ser mi amante-kZ-JHtDWImY.mp4",
             "path": "music_g2/videos/Camilo Sesto - ¿Quieres ser mi amante-kZ-JHtDWImY.mp4",
             "size": 11.986306048000001
@@ -267,5 +272,5 @@
             "size": 6.732265472000001
         }
     ],
-    "total_size": 649.9507916800002
+    "total_size": 652.8820336640002
 }
