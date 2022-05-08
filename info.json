@@ -282,6 +282,11 @@
             "size": 12.071288832
         },
         {
+            "name": "John Marsh - Symphony No.6 in D-major (1796)-gkJE8bDTzPc.mp4",
+            "path": "music_g2/videos/John Marsh - Symphony No.6 in D-major (1796)-gkJE8bDTzPc.mp4",
+            "size": 50.98286592
+        },
+        {
             "name": "L'Impératrice — Anomalie bleue-kGxOaDdg2kI.mp4",
             "path": "music_g2/videos/L'Impératrice — Anomalie bleue-kGxOaDdg2kI.mp4",
             "size": 21.50119936
@@ -302,5 +307,5 @@
             "size": 49.820164096000006
         }
     ],
-    "total_size": 778.0742727680001
+    "total_size": 829.0571386880001
 }
