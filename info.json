@@ -12,6 +12,11 @@
             "size": 9.133006848
         },
         {
+            "name": "Johann Strauss II - Pizzicato Polka-xsOwumN3utE.mp4",
+            "path": "music_g2/videos/Johann Strauss II - Pizzicato Polka-xsOwumN3utE.mp4",
+            "size": 3.2713492480000004
+        },
+        {
             "name": "Bain-qGwcLj9OOKE.mp4",
             "path": "music_g2/videos/Bain-qGwcLj9OOKE.mp4",
             "size": 8.114704384000001
@@ -287,5 +292,5 @@
             "size": 49.820164096000006
         }
     ],
-    "total_size": 715.6423710720001
+    "total_size": 718.91372032
 }
