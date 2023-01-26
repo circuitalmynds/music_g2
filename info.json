@@ -157,6 +157,13 @@
         },
         {
             "id": "qGwcLj9OOKE",
+            "name": "Bain - 'After'  (official video)-qGwcLj9OOKE.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/g2/videos/Bain - 'After'  (official video)-qGwcLj9OOKE.mp4",
+            "size": 22.257597,
+            "url": "https://github.com/circuitalmynds/music_g2/blob/main/videos/Bain - 'After'  (official video)-qGwcLj9OOKE.mp4?raw=true"
+        },
+        {
+            "id": "qGwcLj9OOKE",
             "name": "Bain-qGwcLj9OOKE.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/g2/videos/Bain-qGwcLj9OOKE.mp4",
             "size": 7.924516,
@@ -294,6 +301,13 @@
             "path": "/home/alanmatzumiya/Videos/containers/g2/videos/Gora Sartaguda-Si34ZUb7Yok.mp4",
             "size": 2.47605,
             "url": "https://github.com/circuitalmynds/music_g2/blob/main/videos/Gora Sartaguda-Si34ZUb7Yok.mp4?raw=true"
+        },
+        {
+            "id": "HJIWENtRXOk",
+            "name": "Diego Verdaguer - Quién De Los Dos Será [Video Oficial]-HJIWENtRXOk.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/g2/videos/Diego Verdaguer - Quién De Los Dos Será [Video Oficial]-HJIWENtRXOk.mp4",
+            "size": 13.021847999999999,
+            "url": "https://github.com/circuitalmynds/music_g2/blob/main/videos/Diego Verdaguer - Quién De Los Dos Será [Video Oficial]-HJIWENtRXOk.mp4?raw=true"
         },
         {
             "id": "lnvyHtig8QQ",
@@ -506,5 +520,5 @@
             "url": "https://github.com/circuitalmynds/music_g2/blob/main/videos/Why Must The Show Go On (2003 Digital Remaster)-5Ejzjs6PmhU.mp4?raw=true"
         }
     ],
-    "total_size": 1034.888251
+    "total_size": 1070.1676960000002
 }
